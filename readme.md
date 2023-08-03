@@ -10,6 +10,8 @@ Welcome to the "Anime Recommendation System" project! This project aims to provi
 
 For this project, I used a publicly available anime dataset containing information about various anime shows, including their summaries, genres, and ratings. This dataset serves as the foundation for building the recommendation system.
 
+link : https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020
+
 ## Pre-processing
 
 To prepare the anime summaries for analysis, I applied the following pre-processing steps:
